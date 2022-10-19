@@ -16,3 +16,5 @@ fields:
     schema:
       format: markdown
   label: description
+pages:
+- blog/测试一.md
